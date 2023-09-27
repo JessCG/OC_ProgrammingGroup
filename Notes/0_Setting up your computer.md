@@ -1,10 +1,9 @@
 # Week 0 - Setting up your computer
-To be able to follow in class, you will need to have access to some tools. Follow the instructions below to install the tools required for next class (10/04). Some tools are optional and only listed as guidance. You may prefer to use something you are already familiar with, which is completely fine.
+To be able to follow in class, you will need to have access to some tools. Follow the instructions below to install the tools required for next class (10/04). Some tools are optional and only listed as guidance; it is completely fine if prefer to use something you are already familiar with.
 
 If you run into any issues, we can troubleshoot them in class. However, you should come prepare to demonstrate what you tried. If you are stuck in one place, don't let that stop you from covering the rest of the material.
 
-Note that you can view this document online: \
- https://github.com/JessCG/OC_ProgrammingGroup/blob/main/Assignments/Setting%20up%20your%20computer.md
+You can also view this document [online](https://github.com/JessCG/OC_ProgrammingGroup/blob/main/Assignments/Setting%20up%20your%20computer.md).
 
 ## Terminal
 ### 1. Ensure that your laptop has a Terminal
@@ -17,10 +16,11 @@ Terminal commands on Mac/Linux will not match those on Windows. I only know UNIX
 
 
 ## [GitHub](https://github.com/)
-### 1. Create an account 
-- https://github.com/
+### 1. Create a GitHub account 
+Sign up at: \
+https://github.com/
 
-Two-factor identification is now mandatory. I use the app, and have also generated recovery codes which I store in a password manager. For my password manager, I now use BitWarden, but have been happy with LastPass in the past.
+Two-factor identification is now mandatory. I use the app, and have also generated recovery codes which I store in a password manager. For my password manager, I now use [BitWarden](https://bitwarden.com/), but have been happy with [LastPass](https://www.lastpass.com/) in the past.
 
 ### 2. Request a PRO account (free for students; optional)
 A PRO account will give you the ability to create private repositories, which you might find useful when working on your research. All I had to do was send a picture of my OSU ID.
@@ -29,7 +29,7 @@ A PRO account will give you the ability to create private repositories, which yo
 This step will take some time for approval, meanwhile continue to the next step.
 
 ### 3. Set up an SSH key for your account
-This step is likely the most complex. Take your time and follow the instructions at the link below. In short, you need to generate an SSH key which will have both a public and private key, and a passphrase for encryption. The private key remains on your computer, while the public key is saved in your GitHub account. This allows GitHub to recognize your computer as an authorized access. You should generate a new private/public key pair for each new computer or server you connect to your GitHub account in case one is compromised. It is also easier to remove access from specific computers or servers that way. 
+This step is likely the most complex. Take your time and follow the instructions at the link below. In short, you need to generate an SSH key which will generate both a public and private key, and a passphrase for encryption. The private key remains on your computer, while the public key is saved in your GitHub account. This allows GitHub to recognize your computer as an authorized access. You should generate a new private/public key pair for each new computer or server you connect to your GitHub account in case one is compromised. It is also easier to remove access from specific computers or servers that way. 
 
 Never share your public key! I save all of the key information in a secure note in my password manager. 
 
@@ -38,9 +38,9 @@ The instructions:
 
 - Note that in the section `Adding your SSH key to the ssh-agent` (bullet 3), I do not use the option `--apple-use-keychain` but still set a passphrase, which I store in my password manager. I simply use:
 
-```
-ssh-add ~/.ssh/id_ed25519
-```
+    ```
+    $ ssh-add ~/.ssh/id_ed25519
+    ```
 
 ### 4. Using Terminal, clone the class repository
 - In a browser, navigate to the class repository: \
@@ -48,22 +48,22 @@ ssh-add ~/.ssh/id_ed25519
 
 - On your laptop, open your Terminal and navigate to the folder where you want to clone the class repository
 
-- Clone the class repository <u> using SSH</u>, follow the instructions: \
+- Clone the class repository <u> using SSH</u>, following the instructions: \
  https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
-- You should now be able to view all of the files for the class on your laptop. 
+- You should now be able to view all of the files for the class on your laptop. It may be useful to download an editor that renders Markdown such as [Visual Studio Code](https://code.visualstudio.com/) (detailed below).
 
 - To update your local repository, navigate to the `OC_ProgrammingGroup` repository and type:
 
-```
-$ git pull
-```
+    ```
+    $ git pull
+    ```
 
 ## Markdown resources
 It can be convenient to edit Markdown files (e.g., GitHub's README.md files) outside of the browser environment. In that case, an editor that renders Markdown is useful.
 
 ### 1. Consider downloading Visual Studio Code (optional)
-I should confess that I have been using VSCode for less than 24 hours. The reason being that my previous text editor (Atom) has been sundowned, so I looked for an alternative for this class. After trying a few options, I settled on VSCode because you can display a Markdown preview next to the code. You can also select `Jupyter Notebook` as a file type, and various languages (Markdown, Python, R).
+I should confess that I have been using [VSCode](https://code.visualstudio.com/) for less than 24 hours. The reason being that my previous text editor (Atom) has been sundowned, so I looked for an alternative for this class. After trying a few options, I settled on VSCode because you can display a Markdown preview next to the code. You can also select `Jupyter Notebook` as a file type, and various languages (Markdown, Python, R).
 
 - To show the code and Markdown preview side-by-side, select `Markdown: Toggle Preview Locking` in your **Command Palette** (⇧⌘P)
 
@@ -71,3 +71,4 @@ I should confess that I have been using VSCode for less than 24 hours. The reaso
 
 ### 2. Markdown basic syntax
 - https://www.markdownguide.org/basic-syntax/
+
