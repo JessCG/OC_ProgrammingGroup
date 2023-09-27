@@ -48,12 +48,16 @@ ssh-add ~/.ssh/id_ed25519
 
 - On your laptop, open your Terminal and navigate to the folder where you want to clone the class repository
 
-- Clone the class repository <u> using SSH </u>: \
+- Clone the class repository <u> using SSH</u>, follow the instructions: \
  https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 - You should now be able to view all of the files for the class on your laptop. 
 
-- To update your local repository, navigate to the `OC_ProgrammingGroup` repository and type
+- To update your local repository, navigate to the `OC_ProgrammingGroup` repository and type:
+
+```
+$ git pull
+```
 
 ## Markdown resources
 It can be convenient to edit Markdown files (e.g., GitHub's README.md files) outside of the browser environment. In that case, an editor that renders Markdown is useful.
