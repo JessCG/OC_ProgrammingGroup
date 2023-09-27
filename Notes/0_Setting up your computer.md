@@ -1,5 +1,5 @@
 # Week 0 - Setting up your computer
-To be able to follow in class, you will need to have access to some tools. Follow the instructions below to install them and complete some required steps before next class (10/04). Some tools are optional and only listed as guidance. You may prefer to use something you are already familiar with, which is completely fine.
+To be able to follow in class, you will need to have access to some tools. Follow the instructions below to install the tools required for next class (10/04). Some tools are optional and only listed as guidance. You may prefer to use something you are already familiar with, which is completely fine.
 
 If you run into any issues, we can troubleshoot them in class. However, you should come prepare to demonstrate what you tried. If you are stuck in one place, don't let that stop you from covering the rest of the material.
 
