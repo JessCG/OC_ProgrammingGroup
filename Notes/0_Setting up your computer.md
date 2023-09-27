@@ -31,7 +31,7 @@ This step will take some time for approval, meanwhile continue to the next step.
 ### 3. Set up an SSH key for your account
 This step is likely the most complex. Take your time and follow the instructions at the link below. In short, you need to generate an SSH key which will generate both a public and private key, and a passphrase for encryption. The private key remains on your computer, while the public key is saved in your GitHub account. This allows GitHub to recognize your computer as an authorized access. You should generate a new private/public key pair for each new computer or server you connect to your GitHub account in case one is compromised. It is also easier to remove access from specific computers or servers that way. 
 
-Never share your public key! I save all of the key information in a secure note in my password manager. 
+Never share your private key! I save all of the key information in a secure note in my password manager. 
 
 The instructions:
 - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
