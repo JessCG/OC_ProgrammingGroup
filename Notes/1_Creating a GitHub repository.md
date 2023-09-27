@@ -10,9 +10,10 @@ If all of the above went well and you are still enthusiastic, start the process 
 https://docs.github.com/en/get-started/quickstart/create-a-repo
 
 ### 3. Personal websites (optional)
-If you are thinking of creating a personal website through GitHub for your project, instead of doing steps 1 &amp; 2, look for a <u>jekyll theme</u> that you like. You can Google key words like 'jekyll academic themes', or look more broadly:
-    - https://jekyll-themes.com/category/academic 
-    - https://github.com/topics/jekyll-theme
+If you are thinking of creating a personal website through GitHub for your project, instead of doing steps 1 &amp; 2, look for a <u>jekyll theme</u> that you like. You can Google key words like 'jekyll academic themes', or look more broadly: 
+- https://jekyll-themes.com/category/academic 
+
+- https://github.com/topics/jekyll-theme
 
 I like to go to the theme's main repository and then look at how other people have modified it. Look for the repository's forks: \
     https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository/understanding-connections-between-repositories#accessing-the-forks-page
@@ -20,11 +21,11 @@ I like to go to the theme's main repository and then look at how other people ha
 Once you settled on a theme, create your own fork and name it `your_GitHub_username.github.io` - you can now see your website at that URL! Of course, you will modify it over the course of this class.
 
 ### 4. Share your repository with me
-In order to be able to assist you in making progress, I will need to be able to see your repository. If you repository is public, please email me a link. If you repository is public, please add me as a collaborator (I will remove myself after the end of the quarter): \
+In order to be able to assist you in making progress, I will need to be able to see your repository. If you repository is public, please email me a link. If you repository is public, please add me as a collaborator (@JessCG; I will remove myself after the end of the quarter): \
 https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository 
 
 ### 5. Clone your repository to your laptop
-After following the instructions to edit your `README.md` online, clone your repository on your laptop as you did for the class directory in Week 0(`OC_ProgrammingGroup`).
+After following the instructions to edit your `README.md` online, clone your repository on your laptop as you did for the class directory in Week 0 (`OC_ProgrammingGroup`).
 
 You can then edit your repository as if it was a normal folder, creating the folder structure you settled on in 1.
 
