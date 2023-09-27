@@ -1,6 +1,8 @@
 # OC_ProgrammingGroup
 Contains the course material for OC 599/649 - Computing &amp; Marine Sciences
 
+## Hello World!
+
 ## Class objectives
 The goal of this class is to introduce students to a range of programming tools available for research that can increase productivity and hireability. This approach can feel overwhelming, but remember that no one is expected to learn all of these new tools at once. 
 
