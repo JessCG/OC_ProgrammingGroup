@@ -51,7 +51,7 @@ The material covered as part of this class will be adapted to the participants. 
 - Dec 6 - student presentations of outcome
 
 # Evaluation of Student Performance
-The class will be evaluated as satisfactory/unsatisfactory only. Student who show up and present a final project that met an objective approved by the instructor will be awarded a satisfactory grade. Students can miss 2 classes no questions asked and still receive a satisfactory grade. Missing more than 2 classes will require noticing the instructor.
+The class will be evaluated as satisfactory/unsatisfactory only. Students who show up and present a final project that met an objective approved by the instructor will be awarded a satisfactory grade. Students can miss 2 classes no questions asked and still receive a satisfactory grade. Missing more than 2 classes will require noticing the instructor.
 
 # Learning Resources
 Think Python: How to Think Like a Computer Scientist, Allen Downey, Green Tea Press Needham, Massachusetts, 2012. http://www.thinkpython.com. 
