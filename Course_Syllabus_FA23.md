@@ -38,17 +38,50 @@ There is no required text that you need to buy for this course; however, we will
 
 # Course Content & Schedule
 The material covered as part of this class will be adapted to the participants. A preliminary outline is listed below, while a more up-to-date version will be maintained on the class’ GitHub.
-- Sept 27 - overview
-- Oct 4 - Terminal, GitHub & personal websites
-- Oct 11 - Homebrew, nco/cdo, NetCDF files & Jupyter Lab
-- Oct 18 - xarray
-- Oct 25 - computing servers?
-- Nov 1 - topic based on student projects
-- Nov 8 - topic based on student projects
-- Nov 15 - guest presentation on good figures
-- Nov 22 - topic based on student projects
-- Nov 29 - topic based on student projects
-- Dec 6 - student presentations of outcome
+
+**Week 0**
+- Sept 27 -- Overview
+
+**Week 1**
+- Oct 3 -- Student objectives
+- Oct 5 -- Student objectives (cont’d) & GitHub
+
+**Week 2**
+- Oct 10 -- Conda environments, Jupyter Lab, & NetCDF files
+- Oct 12 -- xarray & Figures I (subplots)
+
+**Week 3**
+- Oct 17 -- Student progress
+- Oct 19 -- Figures 2 (linear regressions & annotations) 
+
+**Week 4**
+- Oct 24 -- Student progress
+- Oct 26 -- OOI data
+
+**Week 5**
+- Oct 31 -- Student progress (Am I halfway to where I want to be?)
+- Nov 2 -- Particle tracking
+
+**Week 6**
+- Nov 7 -- Student progress
+- Nov 9 -- Topic based on prior classes
+
+**Week 7**
+- Nov 14 -- Student progress
+- Nov 16 -- Guest presentation on good figures
+
+**Week 8**
+- Nov 21 -- Student progress
+- Nov 23 -- Thanksgiving
+
+**Week 9**
+- Nov 28 -- Student progress
+- Nov 30 -- Topic based on prior classes
+
+**Week 10**
+- Dec 5 -- Student presentations of outcome
+- Dec 7 -- Student presentations of outcome
+
 
 # Evaluation of Student Performance
 The class will be evaluated as satisfactory/unsatisfactory only. Students who show up and present a final project that met an objective approved by the instructor will be awarded a satisfactory grade. Students can miss 2 classes no questions asked and still receive a satisfactory grade. Missing more than 2 classes will require noticing the instructor.
