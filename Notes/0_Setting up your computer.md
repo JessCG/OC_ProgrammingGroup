@@ -59,6 +59,28 @@ The instructions:
     $ git pull
     ```
 
+## Conda
+### 1. Install conda
+Install [Anaconda](https://docs.anaconda.com/free/anaconda/install/index.html) or [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html). Miniconda is a minimal installer for conda that includes only conda and Python. I prefer it because I avoid installing the 100s of packages associated with Anaconda, and instead install just what I need. However, others like to use the Anaconda Navigator. I am sure it has its advantages; I just can't help with it.
+
+### 2. Create a conda environment (optional)
+One of the advantages of conda is that you can [create conda environments](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands), which keeps modules for different projects separate, avoiding potential conflicts. It is also possible for people to recreate someone else's conda environment, ensuring reproducibility. I have an environment named `sandbox` for data exploration, classes, etc. It is completely fine if that environment breaks. (Hopefully not right before class.)
+
+## Install Jupyter Lab and other Python modules
+Once you have conda installed, open Terminal, activate the relevant conda environment (if applicable) and [install Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html):
+
+```
+conda install -c conda-forge jupyterlab
+```
+
+Using the same command, you can install Python modules commonly used in oceanography: 
+- `xarray`
+- `cartopy`
+- `numpy`
+- `pandas`
+- `scipy` 
+- `matplotlib`
+
 ## Markdown resources
 It can be convenient to edit Markdown files (e.g., GitHub's README.md files) outside of the browser environment. In that case, an editor that renders Markdown is useful.
 
