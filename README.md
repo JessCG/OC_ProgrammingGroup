@@ -18,14 +18,45 @@ For some classes, software will need to be installed ahead of class. You should 
 ## Class schedule
 The material covered as part of this class will be adapted to the participants of the class; the list below reflects the most up-to-date information (as dated by the GitHub commit).
 
-- Sept 27 - overview
-- Oct 4 - Terminal, GitHub &amp; personal websites
-- Oct 11 - Homebrew, nco/cdo, NetCDF files &amp; Jupyter Lab
-- Oct 18 - xarray
-- Oct 25 - computing servers?
-- Nov 1 - topic based on student projects
-- Nov 8 - topic based on student projects
-- Nov 15 - guest presentation on good figures
-- Nov 22 - topic based on student projects
-- Nov 29 - topic based on student projects
-- Dec 6 - student presentations of outcome
+**Week 0**
+- Sept 27 -- Overview
+
+**Week 1**
+- Oct 3 -- Student objectives
+- Oct 5  Student objectives (cont’d) & GitHub
+
+**Week 2**
+- Oct 10 -- Conda environments, Jupyter Lab, & NetCDF files
+- Oct 12 -- xarray & Figures I (subplots)
+
+**Week 3**
+- Oct 17 -- Student progress
+- Oct 19 -- Figures 2 (linear regressions & annotations) 
+
+**Week 4**
+- Oct 24 -- Student progress
+- Oct 26 -- OOI data
+
+**Week 5**
+- Oct 31 -- Student progress (Am I halfway to where I want to be?)
+- Nov 2 -- Particle tracking
+
+**Week 6**
+- Nov 7 -- Student progress
+- Nov 9 -- Topic based on prior classes
+
+**Week 7**
+- Nov 14 -- Student progress
+- Nov 16 -- Guest presentation on good figures
+
+**Week 8**
+- Nov 21 -- Student progress
+- Nov 23 -- Thanksgiving
+
+**Week 9**
+- Nov 28 -- Student progress
+- Nov 30 -- Topic based on prior classes
+
+**Week 10**
+- Dec 5 -- Student presentations of outcome
+- Dec 7 -- Student presentations of outcome
