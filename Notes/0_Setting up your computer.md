@@ -70,7 +70,7 @@ One of the advantages of conda is that you can [create conda environments](https
 Once you have conda installed, open Terminal, activate the relevant conda environment (if applicable) and [install Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html):
 
 ```
-conda install -c conda-forge jupyterlab
+$ conda install -c conda-forge jupyterlab
 ```
 
 Using the same command, you can install Python modules commonly used in oceanography: 
@@ -84,11 +84,11 @@ Using the same command, you can install Python modules commonly used in oceanogr
 From now on, when you want to work on a project:
 - In your terminal, activate the conda environment you created for the project
 ```
-conda activate _nameoftheenvironment_
+$ conda activate nameoftheenvironment
 ```
 - Launch Jupyter Lab:
 ```
-jupyter lab
+$ jupyter lab
 ```
 
 ## Markdown resources
