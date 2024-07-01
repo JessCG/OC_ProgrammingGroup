@@ -81,6 +81,16 @@ Using the same command, you can install Python modules commonly used in oceanogr
 - `scipy` 
 - `matplotlib`
 
+From now on, when you want to work on a project:
+- In your terminal, activate the conda environment you created for the project
+```
+conda activate _nameoftheenvironment_
+```
+- Launch Jupyter Lab:
+```
+jupyter lab
+```
+
 ## Markdown resources
 It can be convenient to edit Markdown files (e.g., GitHub's README.md files) outside of the browser environment. In that case, an editor that renders Markdown is useful.
 
